@@ -1,0 +1,18 @@
+{
+  "Author": "Kyo",
+  "Name": "HQ Sync Debug",
+  "InternalName": "HQSync_Debug",
+  "Punchline": "*smacks it* Dat thang can carry that much HQ in it",
+  "Description": "Gosh dat thang is HQ..",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sync",
+    "customization"
+  ],
+  "CategoryTags": [
+    "other"
+  ],
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false
+}

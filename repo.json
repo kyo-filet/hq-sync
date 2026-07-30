@@ -1,0 +1,34 @@
+[
+{
+    "Author":  "Kyo",
+    "Name":  "HQ Sync",
+    "IconUrl":  "https://raw.githubusercontent.com/kyo-filet/hq-sync/main/images/icon.png",
+    "InternalName":  "HQSync",
+    "AssemblyVersion":  "1.0.0.0",
+    "TestingAssemblyVersion":  "1.0.0.0",
+    "Description":  "Gosh dat thang is HQ..",
+    "Punchline":  "*smacks it* Dat thang can carry that much HQ in it",
+    "ApplicableVersion":  "any",
+    "DalamudApiLevel":  15,
+    "Tags":  [
+                 "sync",
+                 "customization"
+             ],
+    "CategoryTags":  [
+                         "other"
+                     ],
+    "LoadRequiredState":  0,
+    "LoadSync":  false,
+    "CanUnloadAsync":  false,
+    "LoadPriority":  0,
+    "AcceptsFeedback":  true,
+    "IsHide":  false,
+    "IsTestingExclusive":  false,
+    "RepoUrl":  "https://github.com/kyo-filet/hq-sync",
+    "DownloadLinkInstall":  "https://github.com/kyo-filet/hq-sync/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/kyo-filet/hq-sync/releases/latest/download/latest.zip",
+    "DownloadLinkTesting":  "https://github.com/kyo-filet/hq-sync/releases/latest/download/latest.zip",
+    "DownloadCount":  0,
+    "LastUpdate":  1785408020
+}
+]

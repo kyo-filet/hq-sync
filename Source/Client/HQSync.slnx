@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HQSync.API/HQSync.API.csproj" />
+  <Project Path="HQSync/HQSync.csproj" />
+</Solution>
