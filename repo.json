@@ -4,8 +4,8 @@
     "Name":  "HQ Sync",
     "IconUrl":  "https://raw.githubusercontent.com/kyo-filet/hq-sync/main/images/icon.png",
     "InternalName":  "HQSync",
-    "AssemblyVersion":  "1.0.21.0",
-    "TestingAssemblyVersion":  "1.0.21.0",
+    "AssemblyVersion":  "1.0.22.0",
+    "TestingAssemblyVersion":  "1.0.22.0",
     "Description":  "Gosh dat thang is HQ..",
     "Punchline":  "*smacks it* Dat thang can carry that much HQ in it",
     "ApplicableVersion":  "any",
@@ -29,6 +29,6 @@
     "DownloadLinkUpdate":  "https://github.com/kyo-filet/hq-sync/releases/latest/download/latest.zip",
     "DownloadLinkTesting":  "https://github.com/kyo-filet/hq-sync/releases/latest/download/latest.zip",
     "DownloadCount":  0,
-    "LastUpdate":  1786119506
+    "LastUpdate":  1786125320
 }
 ]
